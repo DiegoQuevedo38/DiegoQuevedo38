@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @DiegoQuevedo38
 - 👀 I’m interested in Software development in general, but I really like the Back-end
-- 🌱 I’m currently learning TypeScript, PhP and Python, but I already know a couple of technologies like Sequelize, PostgreSQL, HTML, CSS, JavaScript and frameworks like Node.Js, Express.Js, React and Redux 
+
+![image](https://github.com/DiegoQuevedo38/DiegoQuevedo38/assets/129629916/fcacb7f0-0610-4bcd-a1ef-49054e502a4c)
+
+- 🌱 I’m currently learning TypeScript, PhP and Python, but I already know a couple of technologies like MongoDB, Sequelize, PostgreSQL, HTML, CSS, JavaScript and frameworks like Node.Js, Express.Js, React and Redux 
 - 💞️ I’m looking to collaborate on coding projects and spaces to keep learning more about this amazingly exciting world of Coding <3
 - 📫 You can reach me via email through: quevedodiego3008@gmail.com or via phone by: +34 623 996663
 - 😄 Pronouns: I'm Gender Fluid, so you can call me by the pronouns you better like, won't be bothered in any way
